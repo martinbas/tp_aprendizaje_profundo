@@ -1,7 +1,7 @@
 # tp_aprendizaje_profundo
 
 Integrantes:
-BASMADJIAN, Martín Osvaldo
+BASMADJIAN, Osvaldo Martin
 FERNANDEZ, Maria Emilia
  
 El repositorio contiene
