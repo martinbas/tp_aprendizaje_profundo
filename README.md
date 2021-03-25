@@ -9,7 +9,7 @@ El repositorio contiene
 - En el archivo [mlruns_linea_base_mlp.tar.gz ](https://github.com/martinbas/tp_aprendizaje_profundo/blob/main/mlruns_linea_base_mlp.tar.gz) se encuentran las métricas de la clasificación a través de multilayer perceptron con los hiperparámetros de base obtenidos de la notebook original.
 - En el archivo [mlruns_random_search_mlp.tar.gz](https://github.com/martinbas/tp_aprendizaje_profundo/blob/main/mlruns_random_search_mlp.tar.gz) se encuentran las métricas de la búsqueda aleatoria de hiperparámetros para la clasificación a través de multilayer perceptron.
 - En el archivo [mlruns_experimento_mlp.tar.gz](https://github.com/martinbas/tp_aprendizaje_profundo/blob/main/mlruns_experimento_mlp.tar.gz) se encuentran las métricas de la clasificación a través de multilayer perceptron con los hiperparámetros obtenidos en la búsqueda aleatoria.
-- En el archivo [mlruns_random_search_CNN.tar.gz](https://github.com/martinbas/tp_aprendizaje_profundo/blob/main/mlruns_random_search_CNN.tar.gz) se encuentran las métricas de la búsqueda aleatoria de hiperparámetros para la clasificación a través de multilayer perceptron.
+- En el archivo [mlruns_random_search_CNN.tar.gz](https://github.com/martinbas/tp_aprendizaje_profundo/blob/main/mlruns_random_search_CNN.tar.gz) se encuentran las métricas de la búsqueda aleatoria de hiperparámetros para la clasificación a través de redes convolucionales.
  
 En ambos experimentos se exploraron hiperparámetros y la métrica de evaluación elegida fue balanced accuracy y observamos:
 1. Siempre obtuvimos valores muy bajos de la métrica balanced accuracy para mlp (alrededor de 0.05).
